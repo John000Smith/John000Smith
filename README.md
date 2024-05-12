@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, I'm John👋</h1>
 </div>
-<img src="">
+<img src="https://github.com/John000Smith/John000Smith/assets/169589593/bc15bfa8-c521-4e49-a443-c1306d4c922d">
 
 ## About me
 
